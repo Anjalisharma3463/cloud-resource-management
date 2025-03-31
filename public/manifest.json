@@ -1,8 +1,8 @@
 
 {
     "name": "cloud-resource-management",
-    "short_name": "cxxxxx-D",
-    "description": "cxxxxx-D is a web application that manage cloud resources",
+    "short_name": "CRM",
+    "description": "a PWA is a web application that manage cloud resources",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
