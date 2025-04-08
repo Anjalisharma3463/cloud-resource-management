@@ -4,9 +4,8 @@ import { Inter } from "next/font/google"
 
 import "./globals.css"
 
-const inter = Inter({ subsets: ["latin"] })
-
-export const metadata: Metadata = {
+const inter = Inter({ subsets: ["latin"] }) 
+  export const metadata: Metadata = {
   title: "Cloud Resource Management",
   description: "Manage your cloud resources on the go",
   generator: 'v0.dev'
